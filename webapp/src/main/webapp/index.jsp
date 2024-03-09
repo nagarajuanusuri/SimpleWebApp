@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Currently No Offers **** </h1>   
+         <h1> ****  Currently we have offers **** </h1>   
 	 
 
     </section>    
